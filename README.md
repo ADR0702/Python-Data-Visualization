@@ -1,2 +1,2 @@
-# .Python-Data-Visualization
-Visualizing data with Python — turning numbers into clear, compelling charts using libraries like Matplotlib and Seaborn.
+# Python-Data-Visualization
+Curs Python Data Visualization - Link Academy - promotia 2024/2025
